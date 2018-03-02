@@ -1,0 +1,19 @@
+{
+  "name": "@jonstuebe/koa-knex",
+  "version": "0.0.1-0",
+  "main": "src/index.js",
+  "author": "Jon Stuebe <jstuebe@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "koa": "^2.5.0"
+  },
+  "dependencies": {
+    "knex": "^0.14.4",
+    "lodash": "^4.17.5"
+  },
+  "devDependencies": {
+    "koa": "^2.5.0",
+    "pg": "^7.4.1"
+  }
+}
